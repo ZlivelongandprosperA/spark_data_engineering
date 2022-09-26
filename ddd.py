@@ -4,4 +4,4 @@ def add)x,y):
 
 # Mark do this
 def mult(x,y):
-    return None
+    return x*y
